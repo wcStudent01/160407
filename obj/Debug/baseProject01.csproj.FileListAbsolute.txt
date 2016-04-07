@@ -1,0 +1,12 @@
+C:\Users\admin\Source\Repos\test01\baseProject01\bin\Debug\baseProject01.exe.config
+C:\Users\admin\Source\Repos\test01\baseProject01\bin\Debug\baseProject01.exe
+C:\Users\admin\Source\Repos\test01\baseProject01\bin\Debug\baseProject01.pdb
+C:\Users\admin\Source\Repos\test01\baseProject01\obj\Debug\baseProject01.csprojResolveAssemblyReference.cache
+C:\Users\admin\Source\Repos\test01\baseProject01\obj\Debug\baseProject01.frmForm01.resources
+C:\Users\admin\Source\Repos\test01\baseProject01\obj\Debug\baseProject01.Properties.Resources.resources
+C:\Users\admin\Source\Repos\test01\baseProject01\obj\Debug\baseProject01.csproj.GenerateResource.Cache
+C:\Users\admin\Source\Repos\test01\baseProject01\obj\Debug\baseProject01.exe
+C:\Users\admin\Source\Repos\test01\baseProject01\obj\Debug\baseProject01.pdb
+C:\Users\admin\Source\Repos\160407\bin\Debug\baseProject01.exe.config
+C:\Users\admin\Source\Repos\160407\obj\Debug\baseProject01.exe
+C:\Users\admin\Source\Repos\160407\obj\Debug\baseProject01.pdb
